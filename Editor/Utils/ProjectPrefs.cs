@@ -7,6 +7,10 @@ public static class ProjectPrefs
 
     public static bool GetBool(string key)
     {
+        if (key == FIRST_TIME_SETUP_DONE)
+        {
+            return true;
+        }
         return EditorPrefs.GetBool($"{Application.dataPath}{key}");
     }
 

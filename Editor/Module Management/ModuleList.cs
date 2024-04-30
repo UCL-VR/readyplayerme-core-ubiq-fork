@@ -22,27 +22,27 @@ namespace ReadyPlayerMe.Core.Editor
         /// </summary>
         public static readonly ModuleInfo[] Modules =
         {
-            new ModuleInfo
-            {
-                name = "com.atteneder.gltfast",
-                gitUrl = "https://github.com/atteneder/glTFast.git",
-                branch = "v5.0.0",
-                version = "5.0.0"
-            },
-            new ModuleInfo
-            {
-                name = "com.readyplayerme.avatarloader",
-                gitUrl = "https://github.com/readyplayerme/rpm-unity-sdk-avatar-loader.git",
-                branch = "",
-                version = "1.3.4"
-            },
-            new ModuleInfo
-            {
-                name = "com.readyplayerme.webview",
-                gitUrl = "https://github.com/readyplayerme/rpm-unity-sdk-webview.git",
-                branch = "",
-                version = "1.2.0"
-            }
+            // new ModuleInfo
+            // {
+            //     name = "com.atteneder.gltfast",
+            //     gitUrl = "https://github.com/atteneder/glTFast.git",
+            //     branch = "v5.0.0",
+            //     version = "5.0.0"
+            // },
+            // new ModuleInfo
+            // {
+            //     name = "com.readyplayerme.avatarloader",
+            //     gitUrl = "https://github.com/readyplayerme/rpm-unity-sdk-avatar-loader.git",
+            //     branch = "",
+            //     version = "1.3.4"
+            // },
+            // new ModuleInfo
+            // {
+            //     name = "com.readyplayerme.webview",
+            //     gitUrl = "https://github.com/readyplayerme/rpm-unity-sdk-webview.git",
+            //     branch = "",
+            //     version = "1.2.0"
+            // }
         };
 
         /// <summary>
