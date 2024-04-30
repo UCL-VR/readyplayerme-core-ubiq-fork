@@ -42,17 +42,17 @@ namespace ReadyPlayerMe.Core.Editor
 
         static ModuleUpdater()
         {
-            EntryPoint.Startup += () => Check(true);
+            // EntryPoint.Startup += () => Check(true);
         }
 
-        /// <summary>
-        /// Check for Ready Player Me package updates.
-        /// </summary>
-        [MenuItem("Ready Player Me/Check For Updates")]
-        public static void CheckForUpdates()
-        {
-            Check();
-        }
+        // /// <summary>
+        // /// Check for Ready Player Me package updates.
+        // /// </summary>
+        // [MenuItem("Ready Player Me/Check For Updates")]
+        // public static void CheckForUpdates()
+        // {
+        //     Check();
+        // }
 
         private static void Check(bool isStartup = false)
         {
