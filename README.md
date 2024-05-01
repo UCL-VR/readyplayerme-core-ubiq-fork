@@ -1,3 +1,11 @@
+# MODIFIED VERSION
+
+This is a modified version of com.readyplayerme.core with packaging features removed 
+
+Original readme follows.
+
+---
+
 # Ready Player Me Unity SDK Core
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/readyplayerme/rpm-unity-sdk-core)](https://github.com/readyplayerme/rpm-unity-sdk-core/releases/latest) [![GitHub Discussions](https://img.shields.io/github/discussions/readyplayerme/rpm-unity-sdk-core)](https://github.com/readyplayerme/rpm-unity-sdk-core/discussions)
