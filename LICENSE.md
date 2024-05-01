@@ -1,7 +1,9 @@
 The MIT License (MIT)
 =====================
 
-Copyright © 2022 Ready Player Me
+Original: com.readyplayerme.core copyright © 2022 Ready Player Me
+
+Modifications: Internal package management and update prompts removed, copyright 2024 © VECG group, University College London
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
